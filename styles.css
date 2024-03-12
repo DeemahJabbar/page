@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8cb3d9;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.profile h2 {
+    color: #333;
+}
+.profile p {
+    color: #666;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+.contact {
+    text-align: center;
+}
+.contact h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+.contact p {
+    color: #666;
+    margin-bottom: 5px;
+}
